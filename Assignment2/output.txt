@@ -1,0 +1,7 @@
+Eval Value: 30
+CPSC 101 LEC 01            : MO, 8:00
+CPSC 101 LEC 01            : MO, 8:00
+CPSC 102 LEC 01            : MO, 10:00
+CPSC 102 LEC 01            : MO, 10:00
+CPSC 103 LEC 01            : MO, 9:00
+CPSC 103 LEC 01            : MO, 9:00
